@@ -1,0 +1,6 @@
+data/*
+*.zip
+model/*
+myenv/*
+__pycache__/*
+models/__pycache__/*
